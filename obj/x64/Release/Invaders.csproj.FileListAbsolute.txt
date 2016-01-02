@@ -1,8 +1,0 @@
-C:\Invaders\Invaders\bin\x64\Release\Invaders.exe
-C:\Invaders\Invaders\bin\x64\Release\Invaders.pdb
-C:\Invaders\Invaders\obj\x64\Release\Invaders.Form1.resources
-C:\Invaders\Invaders\obj\x64\Release\Invaders.Properties.Resources.resources
-C:\Invaders\Invaders\obj\x64\Release\Invaders.csproj.GenerateResource.Cache
-C:\Invaders\Invaders\obj\x64\Release\Invaders.exe
-C:\Invaders\Invaders\obj\x64\Release\Invaders.pdb
-C:\Invaders\Invaders\obj\x64\Release\Invaders.csprojResolveAssemblyReference.cache
