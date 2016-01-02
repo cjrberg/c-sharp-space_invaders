@@ -1,0 +1,9 @@
+c:\Invaders\Invaders\bin\Debug\Invaders.exe
+c:\Invaders\Invaders\bin\Debug\Invaders.pdb
+c:\Invaders\Invaders\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Invaders\Invaders\obj\x86\Debug\Invaders.Form1.resources
+c:\Invaders\Invaders\obj\x86\Debug\Invaders.Properties.Resources.resources
+c:\Invaders\Invaders\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Invaders\Invaders\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Invaders\Invaders\obj\x86\Debug\Invaders.exe
+c:\Invaders\Invaders\obj\x86\Debug\Invaders.pdb
